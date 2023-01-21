@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: "[BUG] Bug report"
 about: Create a report to help us improve the modpack
 title: "[BUG] My Issue"
-labels: bug
+labels: bug, issue or question
 assignees: Clark919
 
 ---

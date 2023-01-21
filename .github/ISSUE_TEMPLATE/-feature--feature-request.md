@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: "[FEATURE] Feature request"
 about: Suggest an idea for the modpack - I'll read it and consider adding it. Do not
   post bugs under this category.
 title: "[REQUEST] My Request"
