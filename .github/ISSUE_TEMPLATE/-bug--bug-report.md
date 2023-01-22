@@ -20,8 +20,8 @@ Steps to reproduce the behavior (add and remove steps as needed, describe clearl
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots & Logs**
+If applicable, add screenshots and your Minecraft console log to help explain your problem.
 
 **Modpack Version:**
  1.19.2 1.0.0 Beta
