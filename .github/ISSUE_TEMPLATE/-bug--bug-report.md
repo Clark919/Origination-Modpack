@@ -2,7 +2,7 @@
 name: "[BUG] Bug report"
 about: Create a report to help us improve the modpack
 title: "[BUG] My Issue"
-labels: bug, issue or question
+labels: bug
 assignees: Clark919
 
 ---
